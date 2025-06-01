@@ -1,6 +1,6 @@
 import requests
 
-user_id = 103762395  # Replace with your target user ID
+user_id = 000000000  # Replace with your target user ID
 cursor = ""
 follower_ids = []
 
