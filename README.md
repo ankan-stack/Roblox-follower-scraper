@@ -16,10 +16,14 @@ Install with:
 ```bash
 pip install requests
 ```
+# or
+```bash
+pip install -r requirements.txt
+```
 
 ## How to use
 
-- Run the file by
+Run the file by
 ```bash
 python scrap_follwers.py
 ```
