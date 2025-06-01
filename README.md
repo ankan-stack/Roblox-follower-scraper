@@ -23,7 +23,8 @@ pip install -r requirements.txt
 
 ## How to use
 
-Run the file by
+- On the scrap_followers.py 3rd line `user_id = 000000000` replace the zeros with the roblox user id.
+- Run the file by
 ```bash
 python scrap_follwers.py
 ```
