@@ -8,7 +8,7 @@ This Python tool helps you with scraping all followers of a Roblox user
 
 ## 📦 Requirements
 
-- Python 3.x
+- Python 3.12
 - `requests` library
 
 Install with:
