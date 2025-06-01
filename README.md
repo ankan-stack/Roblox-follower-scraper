@@ -16,7 +16,7 @@ Install with:
 ```bash
 pip install requests
 ```
-# or
+or
 ```bash
 pip install -r requirements.txt
 ```
