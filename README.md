@@ -15,9 +15,11 @@ Install with:
 
 ```bash
 pip install requests
+```
 
 ## How to use
 
 - Run the file by
 ```bash
 python scrap_follwers.py
+```
