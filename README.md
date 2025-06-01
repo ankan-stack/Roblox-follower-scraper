@@ -1,4 +1,4 @@
-# Roblox Follower Blocker Tool
+# Roblox Follower Scraping Tool
 
 This Python tool helps you with scraping all followers of a Roblox user
 
